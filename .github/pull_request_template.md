@@ -1,4 +1,4 @@
-### Describe your changes  
+### Describe your changes
 ### Issue ticket number and link  
 ### Checklist  
 - [ ] I performed a self-review of my code  
