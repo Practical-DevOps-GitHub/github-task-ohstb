@@ -4,4 +4,4 @@
 - [ ] I performed a self-review of my code  
 - [ ] Added tests for core features  
 - [ ] Do we need to implement anywhere?  
-- [ ] Will this be part of a product update? (Yes/No)  
+- [ ] Will this be part of a product update? (Yes/No)
